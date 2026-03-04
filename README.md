@@ -4,7 +4,7 @@ Plataforma escalable de gestión distribuida para la comercialización inteligen
 ## 👥 Integrantes
 
 - Julian Guerra
-- Edwin Menendez
+- Edwin Melendez
 - -Grupo 5 
 
 <hr>
